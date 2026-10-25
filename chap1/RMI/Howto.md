@@ -95,3 +95,5 @@ public class StockClient {
 > This is a basic implementation of a distributed application using RMI. When combined with Springboot, it is possible to turn this code into
 > a web service. The client can be a browser, a mobile app, or any client that can send http requests.
 
+## Last step: launch the system
+After compiling, the server should be run first, then the client. These are standard java applications, they don't require special initialization (just run them using `java` command).
