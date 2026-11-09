@@ -1,0 +1,52 @@
+openapi: 3.0.0
+info:
+  title: Stock API
+  version: "0.0.1"
+servers:
+  - url: /api/v1/stock
+paths:
+  /item_name/{id}:
+    get:
+      operationId: stock_web.item_name
+      summary: Get the name of an item
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+      responses:
+        "200":
+          description: OK
+          content:
+            text/html:
+              schema:
+                type: string
+  
+  /item_price:
+    post:
+      operationId: stock_web.item_price
+      summary: Get the price of some quantity of a product items
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - id
+                - qty
+              properties:
+                id:
+                  type: number
+                qty:
+                  type: number
+      responses:
+        "200":
+          description: OK
+          content:
+            text/html:
+              schema:
+                type: number
+        "400":
+          description: "Invalid input"

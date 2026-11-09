@@ -1,0 +1,66 @@
+<b>Welcome to the homepage</b>
+<script lang="javascript">
+    function getName(){
+        let id=document.getElementById("id_name").value
+        fetch("api/v1/stock/item_name/"+id)
+        .then((res)=>{
+            if (res.status==200)
+                return res.text()
+            else
+                return null
+        }).then((res)=>{
+            let resName=document.getElementById("res_name")
+            if (res!=null)
+                resName.innerHTML=`Name of product associated with ${id} is ${res}`
+            else
+                resName.innerHTML="Product not found"
+        }
+        )
+    }
+
+    function getPrice(){
+        let id=document.getElementById("id_price").value
+        let qty=document.getElementById("qty_price").value
+        fetch("/price-of",{
+            method: "POST",
+            headers: {
+            "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+            "id": id,
+            "qty":qty
+            })
+        })
+        .then((res)=>{
+            if (res.status==200)
+                return res.text()
+            else
+                return null
+        }).then((res)=>{
+            let resName=document.getElementById("res_price")
+            if (res!=null)
+                resName.innerHTML=`Name of product associated with ${id} is ${res}`
+            else
+                resName.innerHTML="Product not found"
+        }
+        )
+    }
+</script>
+<br>
+<div>
+    <label for="id_name">Product ID:</label>
+    <input type="text" id="id_name" placeholder="The product id"/>
+    <input type="button" value="Get name" onclick="getName()"/>
+    <br>
+    <div id="res_name"/>
+</div>
+<br><br>
+<div>
+    <label for="id_price">Product ID:</label>
+    <input type="text" id="id_price" placeholder="The product id"/>
+    <label for="qty_price">Quantity:</label>
+    <input type="text" id="qty_price" placeholder="The quantity"/>
+    <input type="button" value="Get price" onclick="getPrice()"/>
+    <br>
+    <div id="res_price"/>
+</div>
