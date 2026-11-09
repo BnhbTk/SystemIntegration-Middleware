@@ -1,3 +1,9 @@
+# This is main program of the web server, it invokes the swagger api
+# Swagger.yml contains all the necessary service declaration while binding
+# each endpoint to a Python function (in the business logic file stock-web.py
+# Note that you can access the Swagger UI by adding /ui to the url field declared
+# in the yaml file
+
 import connexion
 from flask import render_template
 from flask_cors import CORS
