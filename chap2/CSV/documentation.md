@@ -18,3 +18,9 @@ Note that this command works in Linux. For windows, replace : with ;
 To compile the program, you should use:
 
 `java -cp ".:./commons-codec-1.22.1.jar:./commons-csv-1.14.1.jar:./commons-io-2.22.0.jar" Student`
+
+# Python version
+You need to install Pydantic using the command `pip install pydantic`. There is no special running settings.
+
+# Node version
+You neet to install csv module using the command `npm install csv`.
