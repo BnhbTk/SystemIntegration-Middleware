@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student gender="M">
+        <id>2026001</id>
+        <lname>Haddad</lname>
+        <fname>Karim</fname>
+        <birthday>2002-12-25</birthday>
+        <address>23 Boulevard Mohamed V, Béjaïa, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026002</id>
+        <lname>Saidi</lname>
+        <fname>Ahmed</fname>
+        <birthday>2000-12-04</birthday>
+        <address>23 Rue Didouche Mourad, Constantine, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026003</id>
+        <lname>Bouaza</lname>
+        <fname>Imane</fname>
+        <birthday>2004-03-11</birthday>
+        <address>101 Rue Larbi Ben M'hidi, Tlemcen, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026004</id>
+        <lname>Khelifi</lname>
+        <fname>Ahmed</fname>
+        <birthday>2000-04-03</birthday>
+        <address>55 Avenue de l'ALN, Algiers, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026005</id>
+        <lname>Mekhloufi</lname>
+        <fname>Amel</fname>
+        <birthday>2003-11-28</birthday>
+        <address>33 Rue Didouche Mourad, Algiers, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026006</id>
+        <lname>Haddad</lname>
+        <fname>Yasmin</fname>
+        <birthday>2005-06-06</birthday>
+        <address>49 Rue Larbi Ben M'hidi, Oran, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026007</id>
+        <lname>Zidane</lname>
+        <fname>Yacine</fname>
+        <birthday>2008-04-06</birthday>
+        <address>108 Cité des Martyrs, Batna, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026008</id>
+        <lname>Khelifi</lname>
+        <fname>Amine</fname>
+        <birthday>2004-09-11</birthday>
+        <address>133 Boulevard Mohamed V, Annaba, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026009</id>
+        <lname>Cherif</lname>
+        <fname>Anissa</fname>
+        <birthday>2001-05-29</birthday>
+        <address>109 Avenue de l'ALN, Sétif, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026010</id>
+        <lname>Madani</lname>
+        <fname>Mohamed</fname>
+        <birthday>2001-07-11</birthday>
+        <address>130 Cité des Martyrs, Algiers, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026011</id>
+        <lname>Madani</lname>
+        <fname>Amine</fname>
+        <birthday>2006-03-20</birthday>
+        <address>80 Rue Didouche Mourad, Tlemcen, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026012</id>
+        <lname>Saidi</lname>
+        <fname>Ryad</fname>
+        <birthday>2000-01-19</birthday>
+        <address>48 Cité des Martyrs, Constantine, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026013</id>
+        <lname>Ould</lname>
+        <fname>Yacine</fname>
+        <birthday>2005-06-29</birthday>
+        <address>86 Avenue de l'ALN, Béjaïa, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026014</id>
+        <lname>Bensaid</lname>
+        <fname>Sarah</fname>
+        <birthday>2006-12-19</birthday>
+        <address>80 Avenue de l'ALN, Algiers, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026015</id>
+        <lname>Khelifi</lname>
+        <fname>Yasmin</fname>
+        <birthday>2003-03-16</birthday>
+        <address>108 Avenue de l'ALN, Batna, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026016</id>
+        <lname>Mansouri</lname>
+        <fname>Sarah</fname>
+        <birthday>2004-05-22</birthday>
+        <address>150 Avenue de l'ALN, Algiers, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026017</id>
+        <lname>Khelifi</lname>
+        <fname>Chahinez</fname>
+        <birthday>2005-10-08</birthday>
+        <address>75 Avenue de l'ALN, Tlemcen, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026018</id>
+        <lname>Belkacem</lname>
+        <fname>Amel</fname>
+        <birthday>2007-02-28</birthday>
+        <address>1 Boulevard Mohamed V, Algiers, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026019</id>
+        <lname>Zidane</lname>
+        <fname>Sofiane</fname>
+        <birthday>2004-11-22</birthday>
+        <address>9 Cité des Martyrs, Batna, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026020</id>
+        <lname>Zidane</lname>
+        <fname>Fatma</fname>
+        <birthday>2000-06-10</birthday>
+        <address>30 Avenue de l'ALN, Algiers, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026021</id>
+        <lname>Mansouri</lname>
+        <fname>Sarah</fname>
+        <birthday>2002-12-11</birthday>
+        <address>4 Cité des Martyrs, Sétif, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026022</id>
+        <lname>Saidi</lname>
+        <fname>Karim</fname>
+        <birthday>2006-08-19</birthday>
+        <address>8 Rue Didouche Mourad, Oran, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026023</id>
+        <lname>Mansouri</lname>
+        <fname>Ahmed</fname>
+        <birthday>2001-05-27</birthday>
+        <address>61 Rue Didouche Mourad, Annaba, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026024</id>
+        <lname>Bouaza</lname>
+        <fname>Fatma</fname>
+        <birthday>2007-08-08</birthday>
+        <address>143 Rue Larbi Ben M'hidi, Béjaïa, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026025</id>
+        <lname>Bensaid</lname>
+        <fname>Yasmin</fname>
+        <birthday>2006-02-06</birthday>
+        <address>118 Rue Didouche Mourad, Béjaïa, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026026</id>
+        <lname>Mansouri</lname>
+        <fname>Yasmin</fname>
+        <birthday>2004-06-10</birthday>
+        <address>108 Cité des Martyrs, Algiers, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026027</id>
+        <lname>Ould</lname>
+        <fname>Anis</fname>
+        <birthday>2006-03-15</birthday>
+        <address>138 Boulevard Mohamed V, Béjaïa, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026028</id>
+        <lname>Mansouri</lname>
+        <fname>Amine</fname>
+        <birthday>2001-08-02</birthday>
+        <address>99 Rue Didouche Mourad, Béjaïa, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026029</id>
+        <lname>Bouaza</lname>
+        <fname>Meriem</fname>
+        <birthday>2000-11-21</birthday>
+        <address>54 Boulevard Mohamed V, Tlemcen, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026030</id>
+        <lname>Mansouri</lname>
+        <fname>Ahmed</fname>
+        <birthday>2004-08-22</birthday>
+        <address>72 Boulevard Mohamed V, Constantine, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026031</id>
+        <lname>Ould</lname>
+        <fname>Rania</fname>
+        <birthday>2000-10-04</birthday>
+        <address>76 Cité des Martyrs, Constantine, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026032</id>
+        <lname>Zidane</lname>
+        <fname>Imane</fname>
+        <birthday>2002-06-16</birthday>
+        <address>43 Avenue de l'ALN, Batna, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026033</id>
+        <lname>Cherif</lname>
+        <fname>Ahmed</fname>
+        <birthday>2005-11-06</birthday>
+        <address>133 Boulevard Mohamed V, Tlemcen, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026034</id>
+        <lname>Madani</lname>
+        <fname>Imane</fname>
+        <birthday>2001-01-03</birthday>
+        <address>99 Cité des Martyrs, Béjaïa, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026035</id>
+        <lname>Cherif</lname>
+        <fname>Youcef</fname>
+        <birthday>2002-11-21</birthday>
+        <address>16 Cité des Martyrs, Constantine, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026036</id>
+        <lname>Belkacem</lname>
+        <fname>Yacine</fname>
+        <birthday>2003-05-31</birthday>
+        <address>26 Rue Didouche Mourad, Batna, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026037</id>
+        <lname>Bensaid</lname>
+        <fname>Walid</fname>
+        <birthday>2003-05-07</birthday>
+        <address>134 Cité des Martyrs, Constantine, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026038</id>
+        <lname>Zidane</lname>
+        <fname>Anissa</fname>
+        <birthday>2007-09-11</birthday>
+        <address>24 Rue Larbi Ben M'hidi, Oran, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026039</id>
+        <lname>Ould</lname>
+        <fname>Anissa</fname>
+        <birthday>2005-12-17</birthday>
+        <address>52 Rue Larbi Ben M'hidi, Algiers, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026040</id>
+        <lname>Cherif</lname>
+        <fname>Anis</fname>
+        <birthday>2000-10-30</birthday>
+        <address>75 Cité des Martyrs, Tlemcen, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026041</id>
+        <lname>Belkacem</lname>
+        <fname>Meriem</fname>
+        <birthday>2001-04-21</birthday>
+        <address>12 Cité des Martyrs, Sétif, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026042</id>
+        <lname>Mekhloufi</lname>
+        <fname>Karim</fname>
+        <birthday>2007-04-16</birthday>
+        <address>43 Avenue de l'ALN, Batna, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026043</id>
+        <lname>Bensaid</lname>
+        <fname>Sarah</fname>
+        <birthday>2003-03-24</birthday>
+        <address>30 Avenue de l'ALN, Annaba, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026044</id>
+        <lname>Madani</lname>
+        <fname>Walid</fname>
+        <birthday>2005-02-08</birthday>
+        <address>58 Avenue de l'ALN, Tlemcen, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026045</id>
+        <lname>Haddad</lname>
+        <fname>Yacine</fname>
+        <birthday>2003-12-26</birthday>
+        <address>135 Boulevard Mohamed V, Annaba, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026046</id>
+        <lname>Madani</lname>
+        <fname>Lina</fname>
+        <birthday>2005-01-15</birthday>
+        <address>146 Rue Didouche Mourad, Tlemcen, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026047</id>
+        <lname>Mekhloufi</lname>
+        <fname>Meriem</fname>
+        <birthday>2006-09-02</birthday>
+        <address>95 Cité des Martyrs, Sétif, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026048</id>
+        <lname>Saidi</lname>
+        <fname>Youcef</fname>
+        <birthday>2004-12-27</birthday>
+        <address>42 Cité des Martyrs, Constantine, Algeria</address>
+    </student>
+    <student gender="F">
+        <id>2026049</id>
+        <lname>Saidi</lname>
+        <fname>Anissa</fname>
+        <birthday>2006-05-07</birthday>
+        <address>70 Boulevard Mohamed V, Oran, Algeria</address>
+    </student>
+    <student gender="M">
+        <id>2026050</id>
+        <lname>Madani</lname>
+        <fname>Ryad</fname>
+        <birthday>2007-04-22</birthday>
+        <address>10 Cité des Martyrs, Oran, Algeria</address>
+    </student>
+
+</students>
