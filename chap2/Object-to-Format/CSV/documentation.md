@@ -23,4 +23,4 @@ To compile the program, you should use:
 You need to install Pydantic using the command `pip install pydantic`. There is no special running settings.
 
 # Node version
-You neet to install csv module using the command `npm install csv`.
+You need to install the `csv` module using the command `npm install csv`.
