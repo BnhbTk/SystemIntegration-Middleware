@@ -1,0 +1,11 @@
+<students>
+{%for student in data.students %}
+<student gender="{{student.gender}}">
+<id>{{student.id}}</id>
+<lname>{{student.lname}}</lname>
+<fname>{{student.fname}}</fname>
+<birthday>{{student.birthday}}</birthday>
+<address>{{student.address}}</address>
+</student>
+{%endfor%}
+</students>
