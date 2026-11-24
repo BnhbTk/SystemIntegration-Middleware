@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package education;
+
+message Student {
+  uint32 id = 1;
+  string lname = 2;
+  string fname = 3;
+  string gender = 4;
+  string birthday = 5;
+  string address = 6; 
+}
+
+message StudentList {
+  repeated Student students = 1;
+}
