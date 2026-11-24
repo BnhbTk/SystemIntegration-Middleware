@@ -15,7 +15,7 @@
         <students>
         <xsl:for-each select="$json/fn:map/fn:array[@key='students']/fn:map">
                 <student gender="{fn:string[@key='gender']}">
-                    <id><xsl:value-of select="fn:string[@key='id']"/></id>
+                    <id><xsl:value-of select="fn:number[@key='id']"/></id>
                     <lname><xsl:value-of select="fn:string[@key='lname']"/></lname>
                     <fname><xsl:value-of select="fn:string[@key='fname']"/></fname>
                     <birthday><xsl:value-of select="fn:string[@key='birthday']"/></birthday>
