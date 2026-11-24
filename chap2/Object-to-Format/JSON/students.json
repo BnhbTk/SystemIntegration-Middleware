@@ -1,0 +1,404 @@
+{
+    "students": [
+        {
+            "id": 2026001,
+            "lname": "Haddad",
+            "fname": "Karim",
+            "gender": "M",
+            "birthday": "2002-12-25",
+            "address": "23 Boulevard Mohamed V, Béjaïa,Algeria"
+        },
+        {
+            "id": 2026002,
+            "lname": "Saidi",
+            "fname": "Ahmed",
+            "gender": "M",
+            "birthday": "2000-12-04",
+            "address": "23 Rue Didouche Mourad, Constantine, Algeria"
+        },
+        {
+            "id": 2026003,
+            "lname": "Bouaza",
+            "fname": "Imane",
+            "gender": "F",
+            "birthday": "2004-03-11",
+            "address": "101 Rue Larbi Ben M'hidi, Tlemcen, Algeria"
+        },
+        {
+            "id": 2026004,
+            "lname": "Khelifi",
+            "fname": "Ahmed",
+            "gender": "M",
+            "birthday": "2000-04-03",
+            "address": "55 Avenue de l'ALN, Algiers, Algeria"
+        },
+        {
+            "id": 2026005,
+            "lname": "Mekhloufi",
+            "fname": "Amel",
+            "gender": "F",
+            "birthday": "2003-11-28",
+            "address": "33 Rue Didouche Mourad, Algiers, Algeria"
+        },
+        {
+            "id": 2026006,
+            "lname": "Haddad",
+            "fname": "Yasmin",
+            "gender": "F",
+            "birthday": "2005-06-06",
+            "address": "49 Rue Larbi Ben M'hidi, Oran, Algeria"
+        },
+        {
+            "id": 2026007,
+            "lname": "Zidane",
+            "fname": "Yacine",
+            "gender": "M",
+            "birthday": "2008-04-06",
+            "address": "108 Cité des Martyrs, Batna, Algeria"
+        },
+        {
+            "id": 2026008,
+            "lname": "Khelifi",
+            "fname": "Amine",
+            "gender": "M",
+            "birthday": "2004-09-11",
+            "address": "133 Boulevard Mohamed V, Annaba, Algeria"
+        },
+        {
+            "id": 2026009,
+            "lname": "Cherif",
+            "fname": "Anissa",
+            "gender": "F",
+            "birthday": "2001-05-29",
+            "address": "109 Avenue de l'ALN, Sétif, Algeria"
+        },
+        {
+            "id": 2026010,
+            "lname": "Madani",
+            "fname": "Mohamed",
+            "gender": "M",
+            "birthday": "2001-07-11",
+            "address": "130 Cité des Martyrs, Algiers, Algeria"
+        },
+        {
+            "id": 2026011,
+            "lname": "Madani",
+            "fname": "Amine",
+            "gender": "M",
+            "birthday": "2006-03-20",
+            "address": "80 Rue Didouche Mourad, Tlemcen, Algeria"
+        },
+        {
+            "id": 2026012,
+            "lname": "Saidi",
+            "fname": "Ryad",
+            "gender": "M",
+            "birthday": "2000-01-19",
+            "address": "48 Cité des Martyrs, Constantine, Algeria"
+        },
+        {
+            "id": 2026013,
+            "lname": "Ould",
+            "fname": "Yacine",
+            "gender": "M",
+            "birthday": "2005-06-29",
+            "address": "86 Avenue de l'ALN, Béjaïa, Algeria"
+        },
+        {
+            "id": 2026014,
+            "lname": "Bensaid",
+            "fname": "Sarah",
+            "gender": "F",
+            "birthday": "2006-12-19",
+            "address": "80 Avenue de l'ALN, Algiers, Algeria"
+        },
+        {
+            "id": 2026015,
+            "lname": "Khelifi",
+            "fname": "Yasmin",
+            "gender": "F",
+            "birthday": "2003-03-16",
+            "address": "108 Avenue de l'ALN, Batna, Algeria"
+        },
+        {
+            "id": 2026016,
+            "lname": "Mansouri",
+            "fname": "Sarah",
+            "gender": "F",
+            "birthday": "2004-05-22",
+            "address": "150 Avenue de l'ALN, Algiers, Algeria"
+        },
+        {
+            "id": 2026017,
+            "lname": "Khelifi",
+            "fname": "Chahinez",
+            "gender": "F",
+            "birthday": "2005-10-08",
+            "address": "75 Avenue de l'ALN, Tlemcen, Algeria"
+        },
+        {
+            "id": 2026018,
+            "lname": "Belkacem",
+            "fname": "Amel",
+            "gender": "F",
+            "birthday": "2007-02-28",
+            "address": "1 Boulevard Mohamed V, Algiers, Algeria"
+        },
+        {
+            "id": 2026019,
+            "lname": "Zidane",
+            "fname": "Sofiane",
+            "gender": "M",
+            "birthday": "2004-11-22",
+            "address": "9 Cité des Martyrs, Batna, Algeria"
+        },
+        {
+            "id": 2026020,
+            "lname": "Zidane",
+            "fname": "Fatma",
+            "gender": "F",
+            "birthday": "2000-06-10",
+            "address": "30 Avenue de l'ALN, Algiers, Algeria"
+        },
+        {
+            "id": 2026021,
+            "lname": "Mansouri",
+            "fname": "Sarah",
+            "gender": "F",
+            "birthday": "2002-12-11",
+            "address": "4 Cité des Martyrs, Sétif, Algeria"
+        },
+        {
+            "id": 2026022,
+            "lname": "Saidi",
+            "fname": "Karim",
+            "gender": "M",
+            "birthday": "2006-08-19",
+            "address": "8 Rue Didouche Mourad, Oran, Algeria"
+        },
+        {
+            "id": 2026023,
+            "lname": "Mansouri",
+            "fname": "Ahmed",
+            "gender": "M",
+            "birthday": "2001-05-27",
+            "address": "61 Rue Didouche Mourad, Annaba, Algeria"
+        },
+        {
+            "id": 2026024,
+            "lname": "Bouaza",
+            "fname": "Fatma",
+            "gender": "F",
+            "birthday": "2007-08-08",
+            "address": "143 Rue Larbi Ben M'hidi, Béjaïa, Algeria"
+        },
+        {
+            "id": 2026025,
+            "lname": "Bensaid",
+            "fname": "Yasmin",
+            "gender": "F",
+            "birthday": "2006-02-06",
+            "address": "118 Rue Didouche Mourad, Béjaïa, Algeria"
+        },
+        {
+            "id": 2026026,
+            "lname": "Mansouri",
+            "fname": "Yasmin",
+            "gender": "F",
+            "birthday": "2004-06-10",
+            "address": "108 Cité des Martyrs, Algiers, Algeria"
+        },
+        {
+            "id": 2026027,
+            "lname": "Ould",
+            "fname": "Anis",
+            "gender": "M",
+            "birthday": "2006-03-15",
+            "address": "138 Boulevard Mohamed V, Béjaïa, Algeria"
+        },
+        {
+            "id": 2026028,
+            "lname": "Mansouri",
+            "fname": "Amine",
+            "gender": "M",
+            "birthday": "2001-08-02",
+            "address": "99 Rue Didouche Mourad, Béjaïa, Algeria"
+        },
+        {
+            "id": 2026029,
+            "lname": "Bouaza",
+            "fname": "Meriem",
+            "gender": "F",
+            "birthday": "2000-11-21",
+            "address": "54 Boulevard Mohamed V, Tlemcen, Algeria"
+        },
+        {
+            "id": 2026030,
+            "lname": "Mansouri",
+            "fname": "Ahmed",
+            "gender": "M",
+            "birthday": "2004-08-22",
+            "address": "72 Boulevard Mohamed V, Constantine, Algeria"
+        },
+        {
+            "id": 2026031,
+            "lname": "Ould",
+            "fname": "Rania",
+            "gender": "F",
+            "birthday": "2000-10-04",
+            "address": "76 Cité des Martyrs, Constantine, Algeria"
+        },
+        {
+            "id": 2026032,
+            "lname": "Zidane",
+            "fname": "Imane",
+            "gender": "F",
+            "birthday": "2002-06-16",
+            "address": "43 Avenue de l'ALN, Batna, Algeria"
+        },
+        {
+            "id": 2026033,
+            "lname": "Cherif",
+            "fname": "Ahmed",
+            "gender": "M",
+            "birthday": "2005-11-06",
+            "address": "133 Boulevard Mohamed V, Tlemcen, Algeria"
+        },
+        {
+            "id": 2026034,
+            "lname": "Madani",
+            "fname": "Imane",
+            "gender": "F",
+            "birthday": "2001-01-03",
+            "address": "99 Cité des Martyrs, Béjaïa, Algeria"
+        },
+        {
+            "id": 2026035,
+            "lname": "Cherif",
+            "fname": "Youcef",
+            "gender": "M",
+            "birthday": "2002-11-21",
+            "address": "16 Cité des Martyrs, Constantine, Algeria"
+        },
+        {
+            "id": 2026036,
+            "lname": "Belkacem",
+            "fname": "Yacine",
+            "gender": "M",
+            "birthday": "2003-05-31",
+            "address": "26 Rue Didouche Mourad, Batna, Algeria"
+        },
+        {
+            "id": 2026037,
+            "lname": "Bensaid",
+            "fname": "Walid",
+            "gender": "M",
+            "birthday": "2003-05-07",
+            "address": "134 Cité des Martyrs, Constantine, Algeria"
+        },
+        {
+            "id": 2026038,
+            "lname": "Zidane",
+            "fname": "Anissa",
+            "gender": "F",
+            "birthday": "2007-09-11",
+            "address": "24 Rue Larbi Ben M'hidi, Oran, Algeria"
+        },
+        {
+            "id": 2026039,
+            "lname": "Ould",
+            "fname": "Anissa",
+            "gender": "F",
+            "birthday": "2005-12-17",
+            "address": "52 Rue Larbi Ben M'hidi, Algiers, Algeria"
+        },
+        {
+            "id": 2026040,
+            "lname": "Cherif",
+            "fname": "Anis",
+            "gender": "M",
+            "birthday": "2000-10-30",
+            "address": "75 Cité des Martyrs, Tlemcen, Algeria"
+        },
+        {
+            "id": 2026041,
+            "lname": "Belkacem",
+            "fname": "Meriem",
+            "gender": "F",
+            "birthday": "2001-04-21",
+            "address": "12Cité des Martyrs, Sétif, Algeria"
+        },
+        {
+            "id": 2026042,
+            "lname": "Mekhloufi",
+            "fname": "Karim",
+            "gender": "M",
+            "birthday": "2007-04-16",
+            "address": "43 Avenue de l'ALN, Batna, Algeria"
+        },
+        {
+            "id": 2026043,
+            "lname": "Bensaid",
+            "fname": "Sarah",
+            "gender": "F",
+            "birthday": "2003-03-24",
+            "address": "30 Avenue de l'ALN, Annaba, Algeria"
+        },
+        {
+            "id": 2026044,
+            "lname": "Madani",
+            "fname": "Walid",
+            "gender": "M",
+            "birthday": "2005-02-08",
+            "address": "58 Avenue de l'ALN, Tlemcen, Algeria"
+        },
+        {
+            "id": 2026045,
+            "lname": "Haddad",
+            "fname": "Yacine",
+            "gender": "M",
+            "birthday": "2003-12-26",
+            "address": "135 Boulevard Mohamed V, Annaba, Algeria"
+        },
+        {
+            "id": 2026046,
+            "lname": "Madani",
+            "fname": "Lina",
+            "gender": "F",
+            "birthday": "2005-01-15",
+            "address": "146 Rue Didouche Mourad, Tlemcen, Algeria"
+        },
+        {
+            "id": 2026047,
+            "lname": "Mekhloufi",
+            "fname": "Meriem",
+            "gender": "F",
+            "birthday": "2006-09-02",
+            "address": "95 Cité des Martyrs, Sétif, Algeria"
+        },
+        {
+            "id": 2026048,
+            "lname": "Saidi",
+            "fname": "Youcef",
+            "gender": "M",
+            "birthday": "2004-12-27",
+            "address": "42 Cité des Martyrs, Constantine, Algeria"
+        },
+        {
+            "id": 2026049,
+            "lname": "Saidi",
+            "fname": "Anissa",
+            "gender": "F",
+            "birthday": "2006-05-07",
+            "address": "70 Boulevard Mohamed V, Oran, Algeria"
+        },
+        {
+            "id": 2026050,
+            "lname": "Madani",
+            "fname": "Ryad",
+            "gender": "M",
+            "birthday": "2007-04-22",
+            "address": "10 Cité des Martyrs, Oran, Algeria"
+        }
+    ]
+}
