@@ -19,6 +19,6 @@ with open("data.pkl", "wb") as file:
     pickle.dump(item, file)
 
 # Code to unpickle the object
-with open("item.ser","rb") as file:
+with open("item.pkl","rb") as file:
     item=pickle.load(file)
     print(item)
